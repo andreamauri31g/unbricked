@@ -1,6 +1,6 @@
 # Unbricked
 
-> A simple Game Boy game made while following the gb-asm-tutorial.
+A simple Game Boy game made while following the gb-asm-tutorial.
 
 ## References
 
