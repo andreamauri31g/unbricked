@@ -1,6 +1,6 @@
 # Unbricked
 
-A simple Game Boy game made while following the gb-asm-tutorial.
+A simple Game Boy game.
 
 ## References
 
@@ -12,4 +12,3 @@ A simple Game Boy game made while following the gb-asm-tutorial.
     rgbasm -o input.o input.asm
     rgblink -o unbricked.gb main.o input.o
     rgbfix -v -p 0xFF unbricked.gb
-
