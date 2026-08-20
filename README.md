@@ -4,7 +4,8 @@ A simple Game Boy game.
 
 ## References
 
-* [https://gbdev.io/gb-asm-tutorial/index.html](https://gbdev.io/gb-asm-tutorial/index.html)
+* [GB ASM Tutorial](https://gbdev.io/gb-asm-tutorial/index.html)
+* [RGBDS](https://rgbds.gbdev.io/) (a free assembler/linker package for the Game Boy and Game Boy Color)
 
 ## Build
 
